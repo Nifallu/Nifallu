@@ -1,9 +1,13 @@
 # Hi there! 👋 I'm Hillary
 
-👯 I’m looking to collaborate on new projects!!  
+👯 I’m looking to collaborate on new projects!! 
+  
 hill_a_ray@hotmail.com  
 Lake Hiawatha NJ  
 
+  
+
+Some of my experiences with various tools and technologies include:  
 ## Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
