@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Hillary
 
-👯 I’m looking to collaborate on new projects!!
-hill_a_ray@hotmail.com
-Lake Hiawatha NJ
+👯 I’m looking to collaborate on new projects!!  
+hill_a_ray@hotmail.com  
+Lake Hiawatha NJ  
 
 ## Skills
 
