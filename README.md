@@ -6,7 +6,7 @@ hill_a_ray@hotmail.com
 Lake Hiawatha NJ  
 
 
-
+My software engineering journey started in the world of Computer Animation, fueled by the magic of PyMel in Maya. App Academy supercharged my skills, turning coding challenges into exciting problem-solving adventures. With a knack for customer service and a love for refining code, I dream of joining a collaborative tech hub. Beyond tech, I balance creativity with interests in crochet, sewing, video games, and anime. What sets me apart is my quiet growth mindset and low-key enthusiasm for challenges
 
   
 
