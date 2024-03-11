@@ -1,6 +1,8 @@
 # Hi there! 👋 I'm Hillary
 
 👯 I’m looking to collaborate on new projects!!
+hill_a_ray@hotmail.com
+Lake Hiawatha NJ
 
 ## Skills
 
@@ -21,6 +23,12 @@
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+![HabitRealm](https://i.ibb.co/jHQz5VF/Habits-Page.png)
+![HabitRealm](https://habitrealmstarter.onrender.com)
+
+![Breadit](https://i.ibb.co/1bgMSPK/Breadit.png)
+![Breadit](https://breadit-poci.onrender.com)
 
 <!--
 **Nifallu/Nifallu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
