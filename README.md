@@ -2,8 +2,6 @@
 
 👯 I’m looking to collaborate on new projects!! 
   
-hill_a_ray@hotmail.com  
-Lake Hiawatha NJ  
 
 
 My software engineering journey started in the world of Computer Animation, fueled by the magic of PyMel in Maya. App Academy supercharged my skills, turning coding challenges into exciting problem-solving adventures. With a knack for customer service and a love for refining code, I dream of joining a collaborative tech hub. Beyond tech, I balance creativity with interests in crochet, sewing, video games, and anime. What sets me apart is my quiet growth mindset and low-key enthusiasm for challenges
@@ -30,6 +28,13 @@ Some of my experiences with various tools and technologies include:
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+
+
+hill_a_ray@hotmail.com  
+Lake Hiawatha NJ  
+
 
 
 <!--
