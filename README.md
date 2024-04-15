@@ -32,7 +32,7 @@ Some of my experiences with various tools and technologies include:
 
 
 
-hill_a_ray@hotmail.com  
+hillaryJackson225@gmail.com  
 
 
 
